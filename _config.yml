@@ -3,7 +3,7 @@ author: Sayan Ghosh
 email: spammars@imnottellingu.com
 description: > # this means to ignore newlines until "baseurl:"
   Azure, Cloud and technical stuff - let's get on with it!
-theme: Hacker
+theme: minima
 
 # social links
 twitter_username: sayanghosh # DO NOT include the @ character, or else the build will fail!
