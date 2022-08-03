@@ -1,0 +1,20 @@
+---
+title: "Thoughts on AutoML --- and the avenues for starting Machine Learning journeys"
+date: 2017-05-15
+---
+
+![](https://miro.medium.com/max/1050/1*2FX0xTmwiEHHzYEpJYY5ng.jpeg)
+
+Self-building robots? Used under Pexels license
+
+#AutoML is becoming one of the quite interesting trends in #MachineLearning IMHO. [This post](https://www.forbes.com/sites/janakirammsv/2018/04/15/why-automl-is-set-to-become-the-future-of-artificial-intelligence/#359493c2780a) by [Janakiram MSV](https://www.forbes.com/sites/janakirammsv/) is one of the best summaries I have read so far and wanted to share this. To quote Janaki's words, "*AutoML perfectly fits in between cognitive APIs and custom ML platforms. It delivers the right level of customization without forcing the developers to go through the elaborate workflow. Unlike cognitive APIs that are often considered as black boxes, AutoML exposes the same degree of flexibility but with custom data combined with portability.*" The other interesting commentary I've read about this is from HfS Research, which can be [found here](https://www.hfsresearch.com/pointsofview/get-ahead-of-automated-machine-learning-automl-to-accelerate-your-ai-roadmap).
+
+In my interpretation, speaking very loosely and in more widely understood comparables (which are not at all apples to oranges), there are three avenues for an organisation to get into or mature their #MachineLearning initiatives and start delivering results for business -
+
+-   Cognitive Services --- similar to consuming a SaaS service in the public cloud. These are things like Microsoft Azure Cognitive Services such as Vision and LUIS, AWS Rekognition and Comprehend, Google Vision and Speech-to-text, IBM Watson suite such as empathy, and then services from the niche and specific providers.
+-   AutoML --- similar to consumer a PaaS service in the public cloud. The platform offers a number of services so you don't have to, but you do not have the same level of flexibility as you would have with IaaS. Datarobot is definitely a pioneer in this field, and Google Cloud AutoML, AWS SageMaker, Azure Custom Vision services would be some of the other examples. I am not quite sure if the [recent capabilities of Power BI to wrap around Azure Cognitive Services](https://powerbi.microsoft.com/en-us/blog/power-bi-announces-new-ai-capabilities/) are better placed for this bucket or the one above --- but I am keen to watch that space for more. One of the most exciting examples I have read is from Waymo, where the [complex domain of autonomous vehicles sensing the world around it has benefitted from the use of AutoML](https://medium.com/waymo/automl-automating-the-design-of-machine-learning-models-for-autonomous-driving-141a5583ec2a).
+-   Custom Machine Learning --- similar to IaaS, where you have fine-grained control over your ML solution, but you invest a lot more effort to operate the entire lifecycle. However, this would be your choice to build differentiated / industry specific offerings when the patterns above don't meet your requirements, either functionally, or depending on how far you want to go back to first principles.
+
+Just like a cloud strategy, your ML strategy is very likely to combine all three or a number of combinations of these, but at the end of the day, should allow you to reuse what is out there and build what is differentiated. When in doubt, draw a [Wardley Map](https://blog.gardeviance.org/2015/02/an-introduction-to-wardley-value-chain.html)! And think about what a maturity curve will look for your business and context, while using [standard models such as this one](https://www.hfsresearch.com/pointsofview/the-hfs-ml-execution-guide) as a starting point.
+
+As still very much a newbie dabbling with ML, Would love to get thoughts / views of the experts of this interpretation and understanding, and of course, any further nuances to my vast simplification. In any case, AutoML is definitely a key trend to keep watching!
