@@ -2,9 +2,9 @@
 title: "Two-speed or not two-speed - was that even the question?"
 date: 2017-05-15
 ---
-This was also published on Medium and LinkedIn.
-
 ![two-speed](https://raw.githubusercontent.com/sayanghosh123/github-pages-with-jekyll/main/assets/two-speed.jpg)
+
+This was also published on Medium and LinkedIn.
 
 When Robert Allen Zimmerman picked up an electric guitar is 1965 at [Newport](https://en.wikipedia.org/wiki/Electric_Dylan_controversy), his performance was said to have "electrified one half of his audience, and electrocuted the other". The (not so) recent Nobel prize for the man himself seems to be raising a similar debate - not for me though, I was elated…. till the world decided there were alternative facts to get divided about. But I digress. The point is, the notion of Two-Speed IT (or Bimodal IT, or multi-velocity IT, or "pick a set of words which sound cool and fashionable but complex" IT) seems to be doing the same to the esteemed set of IT Operating Model, IT Organizational Design, and IT Architecture thinkers. Which brings me to the question - was the question really to adopt Two-speed or not, or was this more of a proverbial "it depends" question? (Just to clarify, in case you invest your time reading this article solely to find that out, I am not exactly privy to Bob Dylan's views on Two-speed IT, and not entirely sure he actually has one - but I digress, again!)
 
